@@ -1,0 +1,52 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    justify-content: center;
+}
+.navbar{
+    padding: 15px;
+    background-color: white !important;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+.nav-item{
+    padding: 0 5px;
+}
+.submit{
+    margin: 0 15px;
+    padding: 13px 20px;
+    font-size: 18px;
+}
+
+.heading{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Rubik', sans-serif;
+}
+.content{
+    padding: 50px 10px;
+    font-size: 26px;
+}
+
+.content-para{
+    padding: 50px 0 80px;
+    font-size: 26px;
+    
+}
+.content-link{
+    color: chocolate;
+    text-decoration: none;
+}
+.content-head{
+    font-size: 35px;
+    font-family: 'Merriweather', serif;
+    color: rgb(213, 219, 89);
+    text-decoration: underline;
+}
+
+.featurette{
+    padding: 80px 0;
+    
+}
+.Services{
+    background-image: linear-gradient(to bottom right, rgb(45, 136, 156), rgb(133, 190, 34));
+}
